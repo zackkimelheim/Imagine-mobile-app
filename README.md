@@ -1,5 +1,5 @@
 # Social Networks Final Project
-### Authors : [Zachary Kimelheim](https://github.com/zackkimelheim) & [Arjun Madgavkar](https://github.com/arjunmadgavkar)
+### Authors : [Zachary Kimelheim](https://github.com/zackkimelheim):bowtie: & [Arjun Madgavkar](https://github.com/arjunmadgavkar):neckbeard:
 
 #### Project name: Imagine
 #### Platform: Mobile app, iOS
