@@ -1,5 +1,5 @@
 # Social Networks Final Project
-### Authors : Zachary Kimelheim & [Arjun Madgavkar](https://github.com/arjunmadgavkar)
+### Authors : [Zachary Kimelheim](https://github.com/zackkimelheim) & [Arjun Madgavkar](https://github.com/arjunmadgavkar)
 
 1. [Final Project Report](Final-Project-Abstract.pdf)
 2. [Slidedeck as seen in class](imagine-slidedeck.pdf)
