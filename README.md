@@ -2,7 +2,7 @@
 ### Authors : [Zachary Kimelheim](https://github.com/zackkimelheim) & [Arjun Madgavkar](https://github.com/arjunmadgavkar)
 
 #### Project name: Imagine
-#### Platform: Mobile, iOS
+#### Platform: Mobile app, iOS
 #### Vision: To give people the ability to tap into the incredible stories and history that exist on every street instantly. 
 
 ###### Contents 
