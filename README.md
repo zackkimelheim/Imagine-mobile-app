@@ -3,6 +3,7 @@
 
 #### Project name: Imagine
 #### Platform: Mobile app, iOS
+#### Genre: Tourism
 #### Vision: To give people the ability to tap into the incredible stories and history that exist on every street instantly. 
 
 ###### Contents 
